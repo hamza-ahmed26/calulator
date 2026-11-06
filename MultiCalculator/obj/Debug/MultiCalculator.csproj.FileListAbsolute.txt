@@ -1,0 +1,10 @@
+D:\Assignment windows form\MultiCalculator\MultiCalculator\bin\Debug\MultiCalculator.exe.config
+D:\Assignment windows form\MultiCalculator\MultiCalculator\bin\Debug\MultiCalculator.exe
+D:\Assignment windows form\MultiCalculator\MultiCalculator\bin\Debug\MultiCalculator.pdb
+D:\Assignment windows form\MultiCalculator\MultiCalculator\obj\Debug\MultiCalculator.csproj.AssemblyReference.cache
+D:\Assignment windows form\MultiCalculator\MultiCalculator\obj\Debug\MultiCalculator.Form1.resources
+D:\Assignment windows form\MultiCalculator\MultiCalculator\obj\Debug\MultiCalculator.Properties.Resources.resources
+D:\Assignment windows form\MultiCalculator\MultiCalculator\obj\Debug\MultiCalculator.csproj.GenerateResource.cache
+D:\Assignment windows form\MultiCalculator\MultiCalculator\obj\Debug\MultiCalculator.csproj.CoreCompileInputs.cache
+D:\Assignment windows form\MultiCalculator\MultiCalculator\obj\Debug\MultiCalculator.exe
+D:\Assignment windows form\MultiCalculator\MultiCalculator\obj\Debug\MultiCalculator.pdb
